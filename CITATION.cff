@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Xie"
     given-names: "Jiahao"
-repository-code: "https://github.com/xiejiahao/elf-anisotropy-sisso"
+repository-code: "https://github.com/Material-Intelligence/elf-anisotropy-sisso"
 license: MIT
 version: 1.0.0
 date-released: 2026-08-24

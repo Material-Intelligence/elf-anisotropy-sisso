@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software or the accompanying data, please cite this repository and the associated publication."
+message: "If you use this software, please cite it as below."
 title: "ELF Anisotropy Descriptor and SISSO++ Workflow"
 type: software
 authors:

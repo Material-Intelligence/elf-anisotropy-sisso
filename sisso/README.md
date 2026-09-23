@@ -2,7 +2,7 @@
 
 This directory reproduces the sparse descriptor search from the reported
 13-material data set. It operates only on tables supplied locally under
-`data/sisso/`; the tables are not included in the current public snapshot, and
+`data/sisso/`; the tables are not distributed with this repository, and
 the workflow does not read ELFCAR files or recalculate the one-dimensional ELF
 profiles.
 

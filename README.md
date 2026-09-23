@@ -47,7 +47,7 @@ See [`descriptor/README.md`](descriptor/README.md) for the algorithm, complete c
 
 ## Reproducing the descriptor search
 
-The SISSO++ workflow expects its input tables under a local `data/` directory. These tables are not included in the current public snapshot, and the workflow does not require the original `ELFCAR` files.
+The SISSO++ workflow expects its input tables under a local `data/` directory. These tables are not distributed with this repository; the workflow does not read the original `ELFCAR` files.
 
 ```bash
 python3 sisso/prepare_candidates.py
